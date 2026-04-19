@@ -1,6 +1,6 @@
 print('To_Do_List📋\n')
 
-task = ['study math']
+task = []
 while True:
  print('1. Add Task')
  print('2. View Task')
